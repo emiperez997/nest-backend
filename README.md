@@ -33,7 +33,7 @@ Para este proyecto voy a seguir la guía de BluuWeb, que es una guía para crear
 - Git
 - Docker básico
 
-> !NOTE
+> [!TIP]
 > En caso de que no quieras instalar Visual Studio Code, podes usar alternativamente IDX de Google el cual vamos a configurar también en este tutorial
 
 # Secciones
@@ -110,7 +110,7 @@ IDX nos ofrece personalización de nuestro espacio de trabajo. Podemos modificar
 
 Una vez configurado nuestro entorno de IDX, vamos a proceder a instalar los paquetes que necesitamos.
 
-> !NOTE
+> [!NOTE]
 > En caso de que quieras seguir esta guía con VS Code, podés saltearte los pasos anteriores
 
 ```bash
@@ -137,7 +137,7 @@ Una vez instalado todo y preprando nuestro entorno de trabajo, vamos a crear nue
 
 Para este curso vamos a utilizar _Docker_ para levantar la base de datos
 
-> !NOTE
+> [!NOTE]
 > Docker es un manejador de contenedores. Algo muy similar a un _virtual machine_ para ejecutar aplicaciones.
 
 - Creamos nuestro archivo `docker-compose.yml`
